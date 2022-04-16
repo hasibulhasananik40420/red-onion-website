@@ -1,0 +1,11 @@
+.cart-desgin{
+    border-radius: 26px;
+    background: #fcf7f7;
+    box-shadow: inset 6px 6px 13px #d1cdcd,
+                inset -6px -6px 13px #ffffff;
+                width: 400px;
+                padding: 10px;
+                margin: 15px;
+}
+
+/* w-[400px] h-full p-5 */
